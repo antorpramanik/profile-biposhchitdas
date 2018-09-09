@@ -6,6 +6,7 @@ body{
 	width:400px;
 	height:540px;
 	margin:0px auto;
+	border:1px solid white;
 	background-color:#FFF5F5;
 }
 .dp{
